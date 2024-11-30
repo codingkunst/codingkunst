@@ -32,5 +32,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|글로벌리빙랩 캡스톤디자인 경진대회|우수상|Oct 2, 2025|
-|리눅스 경진대회|동상|Jan 25, 2024|
+|글로벌리빙랩 캡스톤디자인 경진대회|우수상|Oct 2, 2024|
+|오픈소스 소프트웨어 경연대회|동상|Nov 22, 2023|
+|심비우스 독서 골든벨|장려상|Nov 21, 2023|
+|멋쟁이사자처럼 중앙 아이디어톤|교내 1위|Jun 06, 2023|
