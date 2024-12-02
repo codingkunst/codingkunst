@@ -22,7 +22,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🛠️ Stacks
 
- <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,npm,yarn,emotion,styledcomponents"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,npm,yarn,tailwind,emotion,styledcomponents"/>
 
 🐱 About Me
 
